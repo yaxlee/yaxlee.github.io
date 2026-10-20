@@ -12,13 +12,15 @@ redirect_from:
 
 I'm a Ph.D. candidate in Mechanical Engineering at [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en) in the [Robust Field Autonomy Lab](https://robustfieldautonomylab.github.io/). Before Stevens, I received my Master's degree from [NYU](https://www.nyu.edu/), advised by [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) in the [AI4CE Lab](https://ai4ce.github.io/), and my Bachelor's degree from the Qiushi Honors College at [Tianjin University](https://en.tju.edu.cn/).
 
-I'm interested in robot localization and perception. Currently, I'm working on multi-modal SLAM, multi-sensor fusion and 3D perception for robots. I also have extensive deployment experience on ground, aerial, and surface vehicles with cameras, IMUs, LiDAR and GNSS. Here is my [CV](YaxuanLi.pdf).
+I'm interested in robot localization and perception algorithms. Currently, I'm working Multimodal SLAM, sensor fusion and 3D perception for autonomous robotics. I also have extensive deployment experience on ground, aerial, and surface vehicles with cameras, IMUs, LiDAR and GNSS. Here is my [CV](YaxuanLi.pdf).
 
 # News
-- *2026.06* Joined the **General Motors Autonomous Robotics Center** as a Ph.D. intern, working on visual localization and 3D LiDAR perception for autonomous mobile robots.
-- *2026.06* **SGM-SLAM**, a data-efficient distributed SLAM system based on scene graph matching, is on [arXiv](https://arxiv.org/abs/2606.16881).
-- *2026.05* **Above and Below**, a multi-robot SLAM system across surface and underwater domains, is on [arXiv](https://arxiv.org/abs/2605.09811).
-- *2025.08* Our **IROS 2025** paper **CVD-SfM** is on [arXiv](https://arxiv.org/abs/2508.01936), with [code and two new multi-altitude datasets](https://github.com/RobustFieldAutonomyLab/CVD-SfM).
+- *2026.06* Joined the **General Motors Autonomous Robotics Center** as a Ph.D. intern
+- *2026.06* **SGM-SLAM** was accepted to SSRR Main Conference.
+- *2026.06* **Reinforcement Learning Based Heterogeneous Task Allocation under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** was accepted to SSRR Main Conference.
+- *2026.06* **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** was accepted to SSRR Main Conference.
+- *2026.05* **Above and Below**, a multi-robot SLAM system across surface and underwater domains, was accepted to RA-L.
+- *2025.08* **CVD-SfM** was accepted to IROS 2025 Main Conference.
 
 # Publications
 
