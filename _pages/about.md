@@ -19,8 +19,8 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 - *2026.06* **SGM-SLAM** was accepted to SSRR Main Conference.
 - *2026.06* **Reinforcement Learning Based Heterogeneous Task Allocation under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** was accepted to SSRR Main Conference.
 - *2026.06* **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** was accepted to SSRR Main Conference.
-- *2026.05* **Above and Below**, a multi-robot SLAM system across surface and underwater domains, was accepted to RA-L.
-- *2025.08* **CVD-SfM** was accepted to IROS 2025 Main Conference.
+- *2025.06* **Above and Below**, a multi-robot SLAM system across surface and underwater domains, was accepted to RA-L.
+- *2025.06* **CVD-SfM** was accepted to IROS 2025 Main Conference.
 
 # Publications
 
