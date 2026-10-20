@@ -1,0 +1,301 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Yaxuan Li</title>
+
+    <meta name="author" content="Yaxuan Li">
+    <meta name="description" content="Yaxuan Li, Robotics Ph.D. candidate at Stevens Institute of Technology working on multi-sensor localization, SLAM, sensor fusion and 3D perception.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+
+          <!-- ===================== Header: name, bio, links, photo ===================== -->
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Yaxuan Li
+                </p>
+                <p>
+                  I'm a Ph.D. candidate in Mechanical Engineering at <a href="https://www.stevens.edu/">Stevens Institute of Technology</a>, where I'm advised by <a href="https://www.stevens.edu/profile/benglot">Brendan Englot</a> in the <a href="https://www.stevens.edu/robust-field-autonomy-laboratory">Robust Field Autonomy Lab</a>.
+                  I work on multi-sensor odometry and SLAM, sensor fusion, and 3D perception for autonomous robots, and have deployed these systems on ground, aerial, and surface vehicles.
+                </p>
+                <p>
+                  In summer 2026 I was an Autonomous Robot Software Engineer Intern at the General Motors Autonomous Robotics Center, building visual localization for robots in dynamic plant environments.
+                  Before Stevens, I received my M.S. in Mechatronics and Robotics from <a href="https://www.nyu.edu/">NYU</a>, where I worked with <a href="https://engineering.nyu.edu/faculty/chen-feng">Chen Feng</a> in the <a href="https://ai4ce.github.io/">AI4CE Lab</a>, and my B.S. from the Qiushi Honors College at Tianjin University.
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:yli21@stevens.edu">Email</a> &nbsp;/&nbsp;
+                  <a href="data/YaxuanLi-CV.pdf">CV</a> &nbsp;/&nbsp;
+                  <a href="#">Scholar</a> &nbsp;/&nbsp;
+                  <a href="#">LinkedIn</a> &nbsp;/&nbsp;
+                  <a href="#">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:37%;max-width:37%">
+                <a href="images/YaxuanLi.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/YaxuanLi.jpg"></a>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <!-- ===================== Research intro ===================== -->
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h2>Research</h2>
+                <p>
+                  I'm interested in localization, SLAM, sensor fusion, and 3D perception: helping robots know where they are and what is around them, especially when GNSS is degraded and the scene is changing.
+                  Most of my work fuses cameras, IMUs, LiDAR, and GNSS. Some papers are <span class="highlight">highlighted</span>.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+
+          <!-- ===================== Papers ===================== -->
+          <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+<!--
+  To add a paper, copy one <tr> block below.
+  For the template's hover effect (image swaps on mouse-over), use this pattern
+  in the left cell and give each paper a unique id (here "mypaper"):
+
+  <tr onmouseout="mypaper_stop()" onmouseover="mypaper_start()">
+    <td style="padding:16px;width:20%;vertical-align:middle">
+      <div class="one">
+        <div class="two" id='mypaper_image'>
+          <img src='images/mypaper_after.jpg' width="160">
+          (or a muted autoplay loop <video> of images/mypaper.mp4)
+        </div>
+        <img src='images/mypaper_before.jpg' width="160">
+      </div>
+      <script type="text/javascript">
+        function mypaper_start() { document.getElementById('mypaper_image').style.opacity = "1"; }
+        function mypaper_stop()  { document.getElementById('mypaper_image').style.opacity = "0"; }
+        mypaper_stop()
+      </script>
+    </td>
+    ...
+-->
+
+<tr bgcolor="#ffffd0">
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
+      <img src="images/dgvi_slam.jpg" width="160" alt="DGVI-SLAM">
+    </div>
+  </td>
+  <td style="padding:8px;width:80%;vertical-align:middle">
+    <a href="#">
+      <span class="papertitle">DGVI-SLAM: DEM-Aided Visual-Inertial SLAM with Bounded GNSS Recovery</span>
+    </a>
+    <br>
+    <strong>Yaxuan Li</strong>,
+    [co-authors]
+    <br>
+    <em>ICRA</em>, 2027 (under review)
+    <br>
+    <a href="#">paper</a> (coming soon)
+    <p></p>
+    <p>
+    Fusing camera, IMU, GNSS, and a digital elevation model yields globally referenced localization that survives degraded GNSS in cities with varying elevation, cutting median position RMSE by 30% across six urban sequences.
+    </p>
+  </td>
+</tr>
+
+<tr bgcolor="#ffffd0">
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
+      <img src="images/cvd_sfm.jpg" width="160" alt="CVD-SfM">
+    </div>
+  </td>
+  <td style="padding:8px;width:80%;vertical-align:middle">
+    <a href="#">
+      <span class="papertitle">CVD-SfM: Cross-View Deep Front-end SfM for Multi-Altitude Pose Estimation</span>
+    </a>
+    <br>
+    <strong>Yaxuan Li</strong>,
+    [co-authors]
+    <br>
+    <em>IROS</em>, 2025
+    <br>
+    <a href="#">project page</a>
+    /
+    <a href="#">arXiv</a>
+    /
+    <a href="#">code</a>
+    <p></p>
+    <p>
+    A cross-view transformer and a deep front-end (DISK + LightGlue) let structure-from-motion register ground and aerial images to satellite imagery, producing geo-referenced reconstructions and poses across altitudes.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
+      <img src="images/sgm_slam.jpg" width="160" alt="SGM-SLAM">
+    </div>
+  </td>
+  <td style="padding:8px;width:80%;vertical-align:middle">
+    <a href="#">
+      <span class="papertitle">SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM</span>
+    </a>
+    <br>
+    <strong>Yaxuan Li</strong>,
+    [co-authors]
+    <br>
+    <em>[Venue]</em>, [Year]
+    <br>
+    <a href="#">paper</a>
+    /
+    <a href="#">code</a>
+    <p></p>
+    <p>
+    Matching multi-layer scene graphs built from LiDAR and OneFormer semantics enables data-efficient multi-robot SLAM, reaching 1.32 m (outdoor) and 0.81 m (indoor) ATE versus 3.92 m and 3.36 m for Swarm-SLAM on real Livox Mid-360 data.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
+      <img src="images/da_superpoint.jpg" width="160" alt="Dynamic-Aware SuperPoint">
+    </div>
+  </td>
+  <td style="padding:8px;width:80%;vertical-align:middle">
+    <a href="#">
+      <span class="papertitle">Dynamic-Aware SuperPoint: A Robust Feature Extractor for Visual SLAM</span>
+    </a>
+    <br>
+    [authors, including <strong>Yaxuan Li</strong>]
+    <br>
+    <em>[Venue]</em>, [Year]
+    <br>
+    <a href="#">paper</a>
+    <p></p>
+    <p>
+    Augmenting SuperPoint to classify each interest point as static, quasi-static, or dynamic makes visual SLAM more robust in scenes with moving objects.
+    </p>
+  </td>
+</tr>
+
+          </tbody></table>
+
+          <!-- ===================== Industry ===================== -->
+          <table style="width:100%; margin:0 auto; border:0; border-spacing:0; padding:16px;"><tbody>
+            <tr>
+              <td>
+                <h2>Industry</h2>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+            <tr>
+              <td align="center" style="padding:16px;width:20%;vertical-align:middle">
+                <div class="colored-box" style="background-color: #aaba9e;">
+                  <h2>General Motors</h2>
+                </div>
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <strong>Autonomous Robot Software Engineer Intern (Ph.D.)</strong>, Autonomous Robotics Center
+                <br>
+                Warren, MI, Jun &ndash; Aug 2026
+                <p></p>
+                <span class="papertitle">Visual-Assisted Localization in Dynamic Plant Environments</span> (Localization Team, sole developer)
+                <br>
+                Built a visual global localization module on top of LiDAR-inertial SLAM (Cartographer) for initialization and re-localization. Extended NVIDIA cuVGL on Jetson AGX Orin with SuperPoint/LightGlue and 3D-map PnP, and trained custom PyTorch models for commercial deployment. Reached 3 cm accuracy at 0.3 s/frame on the deployed robot.
+                <p></p>
+                <span class="papertitle">3D LiDAR Localization</span> (Localization Team)
+                <br>
+                Deployed and benchmarked FAST-LIO on an Ouster 128-channel LiDAR for next-gen AMRs, building keyframe-based local submaps and registering them with GICP.
+                <p></p>
+                <span class="papertitle">3D LiDAR Object Detection and Segmentation</span> (Perception Team, sole developer)
+                <br>
+                Exported mmdetection3d models to TensorRT and benchmarked them on Jetson AGX Orin. Built an annotated real-world plant dataset in CVAT and synthetic plant data with dynamic pedestrians and obstacles in Isaac Sim.
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center" style="padding:16px;width:20%;vertical-align:middle">
+                <div class="colored-box" style="background-color: #c6b89e;">
+                  <h2>Sysware</h2>
+                </div>
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <strong>Software Development Engineer Intern</strong>, Sysware Technology Co., Ltd.
+                <br>
+                Beijing, China, Mar &ndash; Jun 2021
+              </td>
+            </tr>
+
+
+            <!-- ===================== Miscellanea ===================== -->
+            <tr>
+              <td colspan="2" style="padding:32px 16px 16px 16px">
+                <h2>Miscellanea</h2>
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center" style="padding:16px;width:20%;vertical-align:middle">
+                <div class="colored-box" style="background-color: #edd892;">
+                  <h2>Education</h2>
+                </div>
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <strong>Ph.D. in Mechanical Engineering</strong>, Stevens Institute of Technology, 2023 &ndash; Jun 2027 (expected)
+                <br>
+                Provost Doctoral Fellowship (2023&ndash;2024)
+                <p></p>
+                <strong>M.S. in Mechatronics and Robotics</strong>, New York University, 2021 &ndash; 2023
+                <p></p>
+                <strong>B.S. in Machinery Design, Manufacture and Its Automation</strong>, Qiushi Honors College, Tianjin University, 2016 &ndash; 2020
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center" style="padding:16px;width:20%;vertical-align:middle">
+                <div class="colored-box" style="background-color: #fcb97d;">
+                  <h2>Skills</h2>
+                </div>
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <strong>Programming:</strong> C++, Python, PyTorch, TensorRT, ROS/ROS 2, Ceres, GTSAM, g2o, OpenCV, OpenGL
+                <br>
+                <strong>Localization:</strong> multi-sensor odometry and SLAM, visual-inertial navigation (VINS)
+                <br>
+                <strong>3D vision:</strong> 3D reconstruction, SfM, NeRF, 3DGS, 3D object detection, semantic segmentation
+                <br>
+                <strong>Sensors:</strong> calibration and fusion of camera, LiDAR, IMU, GNSS (RTK, PPK)
+                <br>
+                <strong>Platforms:</strong> UGV, UAV, USV, Jetson, Isaac Sim, CUDA, Gazebo, Docker, Slurm, AWS
+              </td>
+            </tr>
+
+          </tbody></table>
+
+          <!-- ===================== Footer ===================== -->
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:0px">
+                <br>
+                <p style="text-align:right;font-size:small;">
+                  Website template from <a href="https://github.com/jonbarron/jonbarron.github.io">Jon Barron</a>.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
