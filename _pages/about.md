@@ -16,27 +16,13 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 
 # News
 - *2026.06* Joined the **General Motors Autonomous Robotics Center** as a Ph.D. intern
-- *2026.06* Our paper **SGM-SLAM** was accepted to SSRR Main Conference.
-- *2026.06* Our paper **Reinforcement Learning Based Heterogeneous Task Allocation under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** was accepted to SSRR Main Conference.
-- *2026.06* Our paper **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** was accepted to SSRR Main Conference.
+- *2026.06* Our paper **SGM-SLAM** was accepted to SSRR 2026 Main Conference.
+- *2026.06* Our paper **Reinforcement Learning Based Heterogeneous Task Allocation under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** was accepted to SSRR 2026 Main Conference.
+- *2026.06* Our paper **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** was accepted to SSRR 2026 Main Conference.
 - *2025.06* Our paper **Above and Below: Heterogeneous Multi-robot SLAM Across Surface and Underwater Domains** was accepted to RA-L.
 - *2025.06* **CVD-SfM** was accepted to IROS 2025 Main Conference.
 
 # Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/dgvi-slam.png' alt="DGVI-SLAM system overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DGVI-SLAM: DEM-Aided Visual–Inertial SLAM with Bounded GNSS Recovery** <span class="pub-venue">ICRA 2027 (under review)</span>
-
-**Yaxuan Li**, [Co-authors]
-
-Globally referenced localization that fuses camera, IMU, GNSS and a digital elevation model for urban environments with varying elevation and degraded GNSS. DEM integration reduces median position RMSE by 30% across six urban sequences.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="SGM-SLAM multi-layer scene graph" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">arXiv</span>
 
