@@ -20,7 +20,7 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 - *2026.06* Our paper **Reinforcement Learning Based Heterogeneous Task Allocation under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** was accepted to SSRR 2026 Main Conference.
 - *2026.06* Our paper **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** was accepted to SSRR 2026 Main Conference.
 - *2025.06* Our paper **Above and Below: Heterogeneous Multi-robot SLAM Across Surface and Underwater Domains** was accepted to RA-L.
-- *2025.06* **CVD-SfM** was accepted to IROS 2025 Main Conference.
+- *2025.06* Our paper **CVD-SfM** was accepted to IROS 2025 Main Conference.
 
 # Publications
 
@@ -29,7 +29,7 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
   
 **SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">arXiv</span>
 
-Yewei Huang, Tixiao Shan, Abhinav Rajvanshi, Niluthpol Chowdhury Mithun, **Yaxuan Li**, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en), Han-Pang Chiu
+[Yewei Huang](https://scholar.google.com/citations?user=8g3U_tkAAAAJ&hl=en), [Tixiao Shan](https://scholar.google.com/citations?user=hd2fzEsAAAAJ&hl=en), [Abhinav Rajvanshi](https://scholar.google.com/citations?user=_ApeZB0AAAAJ&hl=en), [Niluthpol Chowdhury Mithun](https://scholar.google.com/citations?user=4NvqBm8AAAAJ&hl=en), **Yaxuan Li**, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en), [Han-Pang Chiu](https://scholar.google.com/citations?user=a-gkZ9kAAAAJ&hl=en)
 
 [arXiv](https://arxiv.org/abs/2606.16881)
 </div>
