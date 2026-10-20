@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a Ph.D. candidate in Mechanical Engineering at [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en) in the [Robust Field Autonomy Lab](https://robustfieldautonomylab.github.io/). Before Stevens, I received my Master's degree from [NYU](https://www.nyu.edu/), advised by [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) in the [AI4CE Lab](https://ai4ce.github.io/), and my Bachelor's degree from the Qiushi Honors College at [Tianjin University](https://en.tju.edu.cn/).
 
-I'm interested in robot localization and perception algorithms. Currently, I'm working Multimodal SLAM, sensor fusion and 3D perception for autonomous robotics. I also have extensive deployment experience on ground, aerial, and surface vehicles with cameras, IMUs, LiDAR and GNSS. Here is my [CV](YaxuanLi.pdf).
+I'm interested in robot localization and perception algorithms. Currently, I'm working Multimodal SLAM, sensor fusion and 3D perception for autonomous robotics. I also have extensive deployment experience on ground, aerial, and surface vehicles with cameras, IMUs, LiDAR and GNSS.
 
 # News
 - *2026.06* Joined the **General Motors Autonomous Robotics Center** as a Ph.D. intern
@@ -24,6 +24,9 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 
 # Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="Above and Below system flow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">arXiv</span>
 
 Yewei Huang, Tixiao Shan, Abhinav Rajvanshi, Niluthpol Chowdhury Mithun, **Yaxuan Li**, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en), Han-Pang Chiu
