@@ -24,10 +24,22 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 
 # Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/cvd-sfm.png' alt="CVD-SfM pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CVD-SfM: A Cross-View Deep Front-end Structure-from-Motion System for Sparse Localization in Multi-Altitude Scenes** <span class="pub-venue">IROS</span>
+
+**Yaxuan Li**, [Yewei Huang](https://scholar.google.com/citations?user=8g3U_tkAAAAJ&hl=en), [Bijay Gaudel](https://scholar.google.com/citations?user=qcs-SIcAAAAJ&hl=en), [Hamidreza Jafarnejadsani](https://scholar.google.com/citations?user=5AMdwYkAAAAJ&hl=en), [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en)
+
+[arXiv](https://arxiv.org/abs/2508.01936) \| [Code](https://github.com/RobustFieldAutonomyLab/CVD-SfM) \| [Data](https://huggingface.co/datasets/yaxlee/Stevens-Sky2Ground) 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="Above and Below system flow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">arXiv</span>
+**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">SSRR</span>
 
 [Yewei Huang](https://scholar.google.com/citations?user=8g3U_tkAAAAJ&hl=en), [Tixiao Shan](https://scholar.google.com/citations?user=hd2fzEsAAAAJ&hl=en), [Abhinav Rajvanshi](https://scholar.google.com/citations?user=_ApeZB0AAAAJ&hl=en), [Niluthpol Chowdhury Mithun](https://scholar.google.com/citations?user=4NvqBm8AAAAJ&hl=en), **Yaxuan Li**, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en), [Han-Pang Chiu](https://scholar.google.com/citations?user=a-gkZ9kAAAAJ&hl=en)
 
@@ -38,24 +50,14 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 <div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="Above and Below system flow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Above and Below: Heterogeneous Multi-Robot SLAM Across Surface and Underwater Domains** <span class="pub-venue">arXiv</span>
+**Above and Below: Heterogeneous Multi-Robot SLAM Across Surface and Underwater Domains** <span class="pub-venue">RA-L</span>
 
-John McConnell, Armon Shariati, Paul Szenher, **Yaxuan Li**
+[John McConnell](https://scholar.google.com/citations?user=O4ZToj8AAAAJ&hl=en), [Armon Shariati](https://scholar.google.com/citations?user=RORuI2sAAAAJ&hl=en), [Paul Szenher](https://scholar.google.com/citations?user=DNnPbLgAAAAJ&hl=en), **Yaxuan Li**
 
 [arXiv](https://arxiv.org/abs/2605.09811)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/cvd-sfm.png' alt="CVD-SfM pipeline" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**CVD-SfM: A Cross-View Deep Front-end Structure-from-Motion System for Sparse Localization in Multi-Altitude Scenes** <span class="pub-venue">IROS 2025</span>
-
-**Yaxuan Li**, Yewei Huang, Bijay Gaudel, Hamidreza Jafarnejadsani, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en)
-
-[arXiv](https://arxiv.org/abs/2508.01936) \| [Code & Data](https://github.com/RobustFieldAutonomyLab/CVD-SfM)
-</div>
-</div>
 
 # Experience
 - *2026.06 – 2026.08* **General Motors, Autonomous Robotics Center**, Warren, MI. Autonomous Robot Software Engineer Intern (Ph.D.)
