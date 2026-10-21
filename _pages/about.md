@@ -35,6 +35,17 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/dgvi-slam.png' alt="dgvi" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DGVI-SLAM: DEM-Aided Visual–Inertial SLAM with Bounded Position-Fix GNSS Recovery in Variable-Elevation Urban Environments** <span class="pub-venue">arXiv</span>
+
+**Yaxuan Li**, [Yewei Huang](https://scholar.google.com/citations?user=8g3U_tkAAAAJ&hl=en), [Xi Lin](https://scholar.google.com/citations?user=AI4vw64AAAAJ&hl=en), [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en)
+
+[Code](https://github.com/yaxlee/TerrianNav) \| [Data](https://huggingface.co/datasets/yaxlee/TerrainNav) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="Above and Below system flow" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
