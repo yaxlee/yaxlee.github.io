@@ -35,6 +35,17 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="Above and Below system flow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Above and Below: Heterogeneous Multi-Robot SLAM Across Surface and Underwater Domains** <span class="pub-venue">RA-L</span>
+
+[John McConnell](https://scholar.google.com/citations?user=O4ZToj8AAAAJ&hl=en), [Armon Shariati](https://scholar.google.com/citations?user=RORuI2sAAAAJ&hl=en), [Paul Szenher](https://scholar.google.com/citations?user=DNnPbLgAAAAJ&hl=en), **Yaxuan Li**
+
+[arXiv](https://arxiv.org/abs/2605.09811)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="SGM-SLAM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,18 +58,7 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="Above and Below system flow" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Above and Below: Heterogeneous Multi-Robot SLAM Across Surface and Underwater Domains** <span class="pub-venue">RA-L</span>
-
-[John McConnell](https://scholar.google.com/citations?user=O4ZToj8AAAAJ&hl=en), [Armon Shariati](https://scholar.google.com/citations?user=RORuI2sAAAAJ&hl=en), [Paul Szenher](https://scholar.google.com/citations?user=DNnPbLgAAAAJ&hl=en), **Yaxuan Li**
-
-[arXiv](https://arxiv.org/abs/2605.09811)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="RL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/RL.png' alt="RL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reinforcement Learning Based Heterogeneous Task Allocation Under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** <span class="pub-venue">SSRR</span>
@@ -69,7 +69,7 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="AOII" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/AOII.png' alt="AOII" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** <span class="pub-venue">SSRR</span>
