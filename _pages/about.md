@@ -36,7 +36,7 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="Above and Below system flow" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/sgm-slam.png' alt="SGM-SLAM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM** <span class="pub-venue">SSRR</span>
@@ -57,6 +57,28 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 [arXiv](https://arxiv.org/abs/2605.09811)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="RL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reinforcement Learning Based Heterogeneous Task Allocation Under Spatio-Temporal Environmental Uncertainty for Multi-Robot Teams** <span class="pub-venue">SSRR</span>
+
+[Xi Lin](https://scholar.google.com/citations?user=AI4vw64AAAAJ&hl=en), **Yaxuan Li**, [Paul Szenher](https://scholar.google.com/citations?user=DNnPbLgAAAAJ&hl=en), [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en)
+
+[arXiv]([https://arxiv.org/abs/2605.09811](https://arxiv.org/pdf/2610.15237))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='papers/above.png' alt="AOII" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AoII-Based Persistent Monitoring for Unmanned Surface Vehicles in Spatiotemporal Fields** <span class="pub-venue">SSRR</span>
+
+Razan Andigani, **Yaxuan Li**, [Ivana Collado-Gonzalez](https://scholar.google.com/citations?user=5VZAzoUAAAAJ&hl=en), David Storch, [Brendan Englot](https://scholar.google.com/citations?user=Nd6tX_kAAAAJ&hl=en)
+
+</div>
+</div>
+
 
 
 # Education
