@@ -59,17 +59,8 @@ I'm interested in robot localization and perception algorithms. Currently, I'm w
 </div>
 
 
-# Experience
-- *2026.06 – 2026.08* **General Motors, Autonomous Robotics Center**, Warren, MI. Autonomous Robot Software Engineer Intern (Ph.D.)
-  - *Visual-assisted localization in dynamic plant environments* (sole developer): built visual global localization on top of LiDAR-inertial SLAM (Cartographer) for initialization and re-localization, extending NVIDIA cuVGL on Jetson AGX Orin with SuperPoint/LightGlue and 3D-map PnP. Achieved 3 cm accuracy at 0.3 s/frame on the deployed robot.
-  - *3D LiDAR localization*: deployed and benchmarked FAST-LIO on a 128-channel Ouster LiDAR for next-generation AMRs, with keyframe-based submaps registered by GICP.
-  - *3D LiDAR object detection and segmentation* (sole developer): exported mmdetection3d models to TensorRT on Jetson AGX Orin; built a real-world plant dataset in CVAT and synthetic data with dynamic pedestrians and obstacles in Isaac Sim.
-- *2023.09 – present* **Robust Field Autonomy Lab, Stevens Institute of Technology**, Hoboken, NJ. Ph.D. research with Brendan Englot on multi-sensor SLAM, geo-referenced localization and multi-robot mapping.
-- *2022.09 – 2023.05* **AI4CE Lab, New York University**, New York, NY. Worked with Chen Feng on Dynamic-Aware SuperPoint, a feature extractor that classifies interest points as static, quasi-static or dynamic for robust visual SLAM in dynamic scenes.
-- *2021.03 – 2021.06* **Sysware Technology Co., Ltd.**, Beijing, China. Software Development Engineer Intern.
-
 # Education
-- *2023 – 2027 (expected)* Ph.D. in Mechanical Engineering, Stevens Institute of Technology. Provost Doctoral Fellowship (2023–2024).
+- *2023 – 2027* Ph.D. in Mechanical Engineering, Stevens Institute of Technology. Provost Doctoral Fellowship (2023–2024).
 - *2021 – 2023* M.S. in Mechatronics and Robotics, New York University.
 - *2016 – 2020* B.S. in Machinery Design, Manufacture and Its Automation, Qiushi Honors College, Tianjin University.
 
